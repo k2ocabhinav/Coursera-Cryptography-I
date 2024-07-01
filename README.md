@@ -5,7 +5,7 @@ Welcome to the Cryptography I Quiz Answers repository! This repository contains 
 
 ## How to Use This Repository 🛠️
 
-1. **Navigate to the desired week**: Each week has its own folder.
+1. **Navigate to the desired week**: Each week has its own folder. The questions can be different for you, usually there's a pool of questions.
 2. **Open the problem set file**: Each folder contains Markdown files with the answers to the problem sets.
 
 ## Contributing 🤝
