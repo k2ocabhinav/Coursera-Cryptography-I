@@ -1,6 +1,6 @@
 # Cryptography I Quiz Answers Repository 📚🔐
 
-Welcome to the Cryptography I Quiz Answers repository! This repository contains answers to the problem sets for the [Cryptography I](https://www.coursera.org/learn/crypto) course on Coursera. The answers are organized in a week-wise folder structure for easy navigation starting from week 3.
+Welcome to the Cryptography I Quiz Answers repository! This repository contains answers to the problem sets for the [Cryptography I](https://www.coursera.org/learn/crypto) course on Coursera. The answers are organized in a week-wise folder structure for easy navigation starting from week 3. (Need contribution for Weeks 1 - 2)
 
 
 ## How to Use This Repository 🛠️
